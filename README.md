@@ -15,4 +15,4 @@ I am using [TheMealDB API](https://www.themealdb.com/api.php) to fetch recipe da
 ## Technologies Involved
 * HTML
 * CSS (Tailwind)
-* Vanilla JavaScript
+* Vanilla JavaScript# Recipe_Finder
